@@ -12924,6 +12924,23 @@
       }
     ]
   },
+  "qingting.fm": {
+    "_name": "蜻蜓 FM",
+    ".": [
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/multimedia.html#qing-ting-fm",
+        "source": "/channels/:id",
+        "target": "/qingting/channels/:id"
+      },
+      {
+        "title": "播客",
+        "docs": "https://docs.rsshub.app/multimedia.html#qing-ting-fm",
+        "source": "/channels/:id",
+        "target": "/qingting/podcast/:id"
+      }
+    ]
+  },
   "qipamaijia.com": {
     "_name": "奇葩买家秀",
     ".": [
@@ -16944,6 +16961,12 @@
         "docs": "https://docs.rsshub.app/social-media.html#youtube",
         "source": "/channel/:id",
         "target": "/youtube/channel/:id"
+      },
+      {
+        "title": "自定义网址",
+        "docs": "https://docs.rsshub.app/social-media.html#youtube",
+        "source": "/c/:id",
+        "target": "/youtube/c/:id"
       },
       {
         "title": "播放列表",
