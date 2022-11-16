@@ -2592,6 +2592,20 @@
       }
     ]
   },
+  "cdzjryb.com": {
+    "_name": "成都住建蓉 e 办",
+    "zw": [
+      {
+        "title": "商品住房购房登记",
+        "docs": "https://docs.rsshub.app/other.html#cheng-dou-zhu-jian-rong-e-ban",
+        "source": [
+          "/lottery/accept/projectList",
+          "/"
+        ],
+        "target": "/cdzjryb/zw/projectList"
+      }
+    ]
+  },
   "cebbank.com": {
     "_name": "中国光大银行",
     ".": [
@@ -12210,6 +12224,16 @@
           "/:type/list.htm"
         ],
         "target": "/nua/gra/:type"
+      }
+    ],
+    "lib": [
+      {
+        "title": "图书馆",
+        "docs": "https://docs.rsshub.app/university.html#nan-jing-yi-shu-xue-yuan",
+        "source": [
+          "/:type/list.htm"
+        ],
+        "target": "/nua/lib/:type"
       }
     ]
   },
