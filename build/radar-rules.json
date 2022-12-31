@@ -3134,6 +3134,16 @@
   },
   "codeforces.com": {
     "_name": "Codeforces",
+    ".": [
+      {
+        "title": "Recent Actions",
+        "docs": "https://docs.rsshub.app/programming.html#codeforces-recent-actions",
+        "source": [
+          "/recent-actions"
+        ],
+        "target": "/codeforces/recent-actions"
+      }
+    ],
     "www": [
       {
         "title": "最新比赛",
@@ -13810,6 +13820,19 @@
           "/:cate"
         ],
         "target": "/qipamaijia/:cate"
+      }
+    ]
+  },
+  "qlu.edu.cn": {
+    "_name": "齐鲁工业大学",
+    ".": [
+      {
+        "title": "通知公告",
+        "docs": "https://docs.rsshub.app/university.html#qi-lu-gong-ye-da-xue",
+        "source": [
+          "/tzggsh/list1.htm"
+        ],
+        "target": "/qlu/notice"
       }
     ]
   },

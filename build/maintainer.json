@@ -777,6 +777,9 @@
     "/codeforces/contests": [
         "Fatpandac"
     ],
+    "/codeforces/recent-actions": [
+        "ftiasch"
+    ],
     "/comicskingdom/:name": [
         "stjohnjohnson"
     ],
@@ -3346,6 +3349,9 @@
     "/qipamaijia/:cate?": [
         "Fatpandac",
         "nczitzk"
+    ],
+    "/qlu/notice": [
+        "SunBK201"
     ],
     "/qm120/news/:category?": [
         "nczitzk"
