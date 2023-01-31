@@ -3572,6 +3572,19 @@
       }
     ]
   },
+  "coindesk.com": {
+    "_name": "CoinDesk",
+    ".": [
+      {
+        "title": "Coindesk Consensus Magazine",
+        "docs": "https://docs.rsshub.app/new-media.html#coindesk-consensus-magazine",
+        "source": [
+          "/"
+        ],
+        "target": "/coindesk/consensus-magazine"
+      }
+    ]
+  },
   "comicskingdom.com": {
     "_name": "Comics Kingdom",
     ".": [
@@ -18949,6 +18962,15 @@
         "source": [
           "/html/:id"
         ]
+      }
+    ]
+  },
+  "xaufe.edu.cn": {
+    "_name": "西安财经大学",
+    "jiaowu": [
+      {
+        "title": "教务处",
+        "docs": "https://docs.rsshub.app/university.html#xi-an-cai-jing-da-xue"
       }
     ]
   },
