@@ -845,6 +845,19 @@
       }
     ]
   },
+  "acg17.com": {
+    "_name": "ACG17",
+    ".": [
+      {
+        "title": "全部文章",
+        "docs": "https://docs.rsshub.app/anime.html#acg17",
+        "source": [
+          "/post"
+        ],
+        "target": "/acg17/post/all"
+      }
+    ]
+  },
   "acs.org": {
     "_name": "American Chemistry Society",
     "pubs": [
@@ -15292,6 +15305,24 @@
           "/"
         ],
         "target": "/rfi/news"
+      }
+    ]
+  },
+  "rodong.rep.kp": {
+    "_name": "劳动新闻",
+    ".": [
+      {
+        "title": "新闻",
+        "docs": "https://docs.rsshub.app/traditional-media.html#lao-dong-xin-wen",
+        "source": [
+          "/cn/index.php",
+          "/en/index.php",
+          "/ko/index.php",
+          "/cn",
+          "/en",
+          "/ko"
+        ],
+        "target": "/rodong/news"
       }
     ]
   },
