@@ -287,6 +287,9 @@
     "/android/platform-tools-releases": [
         "nczitzk"
     ],
+    "/annualreviews/:id": [
+        "nczitzk"
+    ],
     "/anquanke/:category/:fulltext?": [
         "qwertyuiop6"
     ],
@@ -1059,6 +1062,18 @@
     ],
     "/dcard/:section/:type?": [
         "HenryQW"
+    ],
+    "/dcfever/news/:type?": [
+        "TonyRL"
+    ],
+    "/dcfever/reviews/:type?": [
+        "TonyRL"
+    ],
+    "/dcfever/trading/search/:keyword/:mainCat?": [
+        "TonyRL"
+    ],
+    "/dcfever/trading/:id": [
+        "TonyRL"
     ],
     "/ddosi/": [
         "XinRoom"
@@ -2203,6 +2218,9 @@
     ],
     "/hrbeu/yjsy/list/:id": [
         "Derekmini"
+    ],
+    "/hrbust/jwzx/:type?/:page?": [
+        "LenaNouzen"
     ],
     "/huangz/": [
         "stormbuf"
@@ -4291,11 +4309,14 @@
         "nczitzk",
         "bigfei"
     ],
+    "/thepaper/list/:id": [
+        "nczitzk",
+        "bigfei"
+    ],
     "/thepaper/factpaper/:status?": [
         "nczitzk"
     ],
-    "/thepaper/list/:id": [
-        "nczitzk",
+    "/thepaper/sidebar/:sec?": [
         "bigfei"
     ],
     "/theverge/:hub?": [
