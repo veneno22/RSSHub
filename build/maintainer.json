@@ -1017,7 +1017,13 @@
     "/csdn/blog": [
         "Jkker"
     ],
+    "/csu/career": [
+        "TonyRL"
+    ],
     "/csu/cse/:type?": [
+        "j1g5awi"
+    ],
+    "/csu/mail/:type?": [
         "j1g5awi"
     ],
     "/cts/:category": [
@@ -2234,6 +2240,9 @@
     "/huanqiu/news/:category?": [
         "yuxinliu-alex"
     ],
+    "/hunanpea/rsks/:guid": [
+        "TonyRL"
+    ],
     "/hupu/all/:id?": [
         "nczitzk"
     ],
@@ -2344,6 +2353,9 @@
     ],
     "/informs/:category?": [
         "Fatpandac"
+    ],
+    "/inoreader/html_clip/:user/:tag/:num?": [
+        "BeautyyuYanli"
     ],
     "/iqiyi/album/:id": [
         "TonyRL"
