@@ -3751,6 +3751,9 @@
         "SivaGao",
         "HenryQW"
     ],
+    "/qianp/news/:path*": [
+        "TonyRL"
+    ],
     "/qianzhan/analyst/column/:type?": [
         "moke8"
     ],
@@ -5401,6 +5404,9 @@
     ],
     "/zuel/notice": [
         "nczitzk"
+    ],
+    "/zuzhirenshi/:id?": [
+        "5upernova-heng"
     ],
     "/zyshow/:region?/:id": [
         "nczitzk"
