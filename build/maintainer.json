@@ -1296,6 +1296,9 @@
     "/douban/group/:groupid/:type?": [
         "DIYgod"
     ],
+    "/douban/list/:type?": [
+        "5upernova-heng"
+    ],
     "/douban/jobs/:type": [
         "Fatpandac"
     ],
@@ -4309,6 +4312,12 @@
     "/swjtu/jyzpxx": [
         "qizidog"
     ],
+    "/swjtu/jwc": [
+        "mobyw"
+    ],
+    "/swjtu/xg/:code?": [
+        "mobyw"
+    ],
     "/swpu/bgw/:code": [
         "CYTMWIA"
     ],
@@ -4427,6 +4436,9 @@
     "/test/:id": [
         "DIYgod",
         "NeverBehave"
+    ],
+    "/theatlantic/:category": [
+        "NavePnow"
     ],
     "/thecatcity/:term?": [
         "TonyRL"
