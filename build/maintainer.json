@@ -927,6 +927,9 @@
     "/chsi/kydt": [
         "SunBK201"
     ],
+    "/chsi/kyzx/:type": [
+        "yanbot-team"
+    ],
     "/ciidbnu/:id?": [
         "nczitzk"
     ],
@@ -2096,6 +2099,12 @@
     "/guokr/:channel": [
         "DHPO",
         "hoilc"
+    ],
+    "/gzdaily/app/:column?": [
+        "TimWu007"
+    ],
+    "/gzdaily/cmc/:channel?": [
+        "TimWu007"
     ],
     "/gzh360/category/:id?": [
         "Rongronggg9"
@@ -4914,6 +4923,9 @@
     ],
     "/wangqiutiyu/anchor/:id": [
         "nczitzk"
+    ],
+    "/wanqu/news": [
+        "Fatpandac"
     ],
     "/warthunder/news": [
         "axojhf"
