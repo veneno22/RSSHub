@@ -14073,6 +14073,26 @@
       }
     ]
   },
+  "nhentai.net": {
+    "_name": "nhentai",
+    ".": [
+      {
+        "title": "分类筛选",
+        "docs": "https://docs.rsshub.app/anime.html#nhentai",
+        "source": [
+          "/:key/:keyword"
+        ],
+        "target": "/nhentai/:key/:keyword"
+      },
+      {
+        "title": "高级搜索",
+        "docs": "https://docs.rsshub.app/anime.html#nhentai",
+        "source": [
+          "/search"
+        ]
+      }
+    ]
+  },
   "nhk.or.jp": {
     "_name": "NHK",
     "www3": [
@@ -15956,6 +15976,32 @@
           "/"
         ],
         "target": "/qbittorrent/news"
+      }
+    ]
+  },
+  "qdaily.com": {
+    "_name": "好奇心日报",
+    ".": [
+      {
+        "title": "标签",
+        "docs": "https://docs.rsshub.app/new-media.html#hao-qi-xin-ri-bao",
+        "source": [
+          "/tags/:id"
+        ]
+      },
+      {
+        "title": "栏目",
+        "docs": "https://docs.rsshub.app/new-media.html#hao-qi-xin-ri-bao",
+        "source": [
+          "/special_columns/:id"
+        ]
+      },
+      {
+        "title": "分类",
+        "docs": "https://docs.rsshub.app/new-media.html#hao-qi-xin-ri-bao",
+        "source": [
+          "/categories/:id"
+        ]
       }
     ]
   },
