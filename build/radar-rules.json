@@ -3828,6 +3828,23 @@
       }
     ]
   },
+  "civitai.com": {
+    "_name": "Civitai",
+    ".": [
+      {
+        "title": "Latest models",
+        "docs": "https://docs.rsshub.app/program-update.html#civitai",
+        "source": "/",
+        "target": "/civitai/models"
+      },
+      {
+        "title": "Discussions",
+        "docs": "https://docs.rsshub.app/program-update.html#civitai",
+        "source": "/models/:modelId",
+        "target": "/civitai/discussions/:modelId"
+      }
+    ]
+  },
   "github.com": {
     "_name": "GitHub",
     ".": [
@@ -7848,6 +7865,20 @@
         "source": [
           "/zwgk/hzsz/:category"
         ]
+      }
+    ]
+  },
+  "jinan.gov.cn": {
+    "_name": "济南市卫生健康委员会",
+    "jnmhc": [
+      {
+        "title": "获取国家医师资格考试通知",
+        "docs": "https://docs.rsshub.app/government.html#ji-nan-shi-wei-sheng-jian-kang-wei-yuan-hui",
+        "source": [
+          "",
+          "/*"
+        ],
+        "target": "/gov/jinan/healthcommission/medical_exam_notice"
       }
     ]
   },
